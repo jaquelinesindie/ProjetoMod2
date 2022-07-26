@@ -58,7 +58,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### **Grupo**
 
-- [Jaqueline Sindie Damasceno](https://github.com/jaquelinesindie)
-- [Gustavo Ribeiro Varella](https://github.com/gustavovarella)
-- [Dayane Martins De Brito](https://github.com/DayBrito)
 - [Camilo Sergio Regis Macedo](https://github.com/Camilord1)
+- [Dayane Martins De Brito](https://github.com/DayBrito)
+- [Gustavo Ribeiro Varella](https://github.com/gustavovarella)
+- [Jaqueline Sindie Damasceno](https://github.com/jaquelinesindie)
