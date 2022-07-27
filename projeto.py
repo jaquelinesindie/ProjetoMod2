@@ -58,6 +58,7 @@ while condicao:
 print('Lista das respostas da pesquisa: ',respostas)
 
 
+
 df = pd.DataFrame(respostas)
 df.to_csv('teste.csv')
 print(df.head())
