@@ -9,7 +9,7 @@
 - [Tecnologias](#tecnologias) 🛠
 - [Grupo](#grupo) 👨‍💻👩‍💻
 ### **Qual o desafio?**
- SNosso time recebeu uma nova solicitação de projeto - dessa vez vamos desenvolver
+Nosso time recebeu uma nova solicitação de projeto - dessa vez vamos desenvolver
 uma pesquisa digital com a população de várias cidades do Brasil e armazenar os
 dados dessa pesquisa em um arquivo .csv para utilização em análises futuras. Os
 funcionários da empresa que contratou a equipe vão sair com o projeto nas ruas e
